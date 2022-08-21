@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeshwarbari" alt="yogeshwarbari" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@yogeshwarbari" target="blank"><img src="https://img.shields.io/twitter/follow/@yogeshwarbari?logo=twitter&style=for-the-badge" alt="@yogeshwarbari" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yogeshwarbari" target="blank"><img src="https://img.shields.io/twitter/follow/yogeshwarbari?logo=twitter&style=for-the-badge" alt="@yogeshwarbari" /></a> </p>
 
 - 🌱 I’m currently learning **AWS Cloud and frontend development**
 
@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@yogeshwarbari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yogeshwarbari" height="30" width="40" /></a>
+<a href="https://twitter.com/yogeshwarbari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yogeshwarbari" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yogeshwarbari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogeshwarbari" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yogeshwarbari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yogeshwarbari" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yogeshwarbari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yogeshwarbari" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@yogeshwarbari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@yogeshwarbari" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@yogeshwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@yogeshwarbari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
